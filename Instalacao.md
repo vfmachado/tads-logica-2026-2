@@ -2,6 +2,8 @@
 
 https://code.visualstudio.com/
 
+Extensões recomendadas:
+    EXTENSION PACK FOR JAVA
 
 # Instalação e Configuração do JDK
 
@@ -18,4 +20,8 @@ https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-on
 ### DEBIAN
 https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-on-debian-11
 
+
+## ALTERNATIVA
+
+https://onecompiler.com/java
 
