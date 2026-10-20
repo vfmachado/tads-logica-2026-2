@@ -9,6 +9,9 @@ public class SomaN {
             // recebe um valor N inteiro
             // e verifica quais dois valores do vetor somados resultam em N
             // mostra a posicao dos valores
+
+            // posicao [1, 1] não é um par valido
+            // [1, 2] e [2, 1] sao a mesma, logo só deve aparecer 1x
         }
     }
 
