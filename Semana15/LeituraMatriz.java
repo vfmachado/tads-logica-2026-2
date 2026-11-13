@@ -30,7 +30,7 @@ public class LeituraMatriz {
                 System.out.print(m[i][j] + "  ");;
             }
             System.out.println();
-            // System.out.println();
+            // 1System.out.println();
         }
 
 
