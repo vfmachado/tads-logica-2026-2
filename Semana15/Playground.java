@@ -38,7 +38,7 @@ public class Playground {
         char [][] m = new char[20][30];
         for (int i = 0; i < m.length; i++) {
             for (int j = 0; j < m[i].length; j++) {
-                m[i][j] = ' ';
+                m[i][j] = '.';
             }
         }
 
@@ -60,7 +60,7 @@ public class Playground {
                 comidaY = aleatorio.nextInt(20);
                 m[comidaY][comidaX] = '$';
             } 
-            m[y][x] = ' ';
+            m[y][x] = '.';
 
             switch (direcao) {
                 case 'C' -> y--;
@@ -85,7 +85,7 @@ public class Playground {
             System.out.println("PONTUACAO " + pontuacao);
             for (int i = 0; i < m.length; i++) {
                 for (int j = 0; j < m[i].length; j++) {
-                   System.out.print(m[i][j]);;
+                   System.out.print(m[i][j] + " ");
                 }
                 System.out.println();
             }
